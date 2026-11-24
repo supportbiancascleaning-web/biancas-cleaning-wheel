@@ -9,7 +9,7 @@ A static, responsive prize-wheel website. No customer form or backend is require
 ## Prizes and odds
 Each of the four prizes has an equal 25% chance:
 1. FREE Oven Cleaning ($50 value)
-2. FREE Fridge Cleaning ($50 value)
+2. Gift Cards
 3. 20% OFF your next cleaning
 4. $40 OFF your next cleaning
 
